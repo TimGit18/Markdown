@@ -32,4 +32,12 @@ das mit der Variablen $SOURCE_PROD_DIR deklariert wurde und benutzt dieses Verze
 
 `javac -encoding utf8 "$SOURCE_CORE_DIR"/*.java -d "$PROJECT_PROD_DIR" -cp "$PROJECT_PROD_DIR"`
 
+## Globalen Hostnamen#
+
+Der globale Hostname in Unix wird mit dem folgenden Kommando ermittelt:
+
+`hostname`
+
+
+
 
